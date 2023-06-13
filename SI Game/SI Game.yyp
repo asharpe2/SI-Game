@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 2,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
@@ -34,6 +34,7 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"obj_XPTracker","path":"objects/obj_XPTracker/obj_XPTracker.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
