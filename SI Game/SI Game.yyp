@@ -34,6 +34,8 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"obj_Button","path":"objects/obj_Button/obj_Button.yy",},},
+    {"id":{"name":"spr_Button","path":"sprites/spr_Button/spr_Button.yy",},},
     {"id":{"name":"obj_XPTracker","path":"objects/obj_XPTracker/obj_XPTracker.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],

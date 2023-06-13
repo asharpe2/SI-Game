@@ -2,9 +2,9 @@
 
 if (keyboard_check_pressed(ord("P")))
 {
-	XP ++;
+	global.XP ++;
 }
 else if (keyboard_check_pressed(ord("O")))
 {
-	XP --;
+	global.XP --;
 }

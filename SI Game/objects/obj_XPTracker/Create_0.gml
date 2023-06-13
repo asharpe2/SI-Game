@@ -1,3 +1,3 @@
 /// @description Var Setting
 
-XP = 0;
+global.XP = 0;
